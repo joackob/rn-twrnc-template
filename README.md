@@ -1,1 +1,0 @@
-# rn-twrnc-template-app
